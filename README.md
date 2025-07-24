@@ -15,6 +15,16 @@ This Excel file serves as a **financial performance dashboard** for pharmaceutic
 
 ---
 
+## 📽️ Demo Video
+
+[![Watch the Dashboard Demo](https://img.youtube.com/vi/qHVpUZMJKLs/0.jpg)](https://youtu.be/qHVpUZMJKLs)
+
+🎥 This video demonstrates the Excel Pharma Profit Dashboard, including:
+- Pivot Table setup
+- Governorate-level profit analysis
+- Slicers and interactive filters
+- Custom visuals for decision-making
+
 ## 📊 Key Features
 
 ### ✅ Pivot Table Dashboard
